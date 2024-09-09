@@ -8,3 +8,4 @@ Profesora: Débora Rolón
 Fecha de entrega: 10/09/2024
 Aclaraciones
 
+El ejercicio debería correr ingresando "npm start dev" en la terminal
